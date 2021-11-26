@@ -1,0 +1,25 @@
+<Diets>
+	<Diet>
+		<ID>Omnivore</ID>
+		<Name>Omnivore</Name>
+		<Item>Apple</Item>
+		<Item>Apple_Juice</Item>
+		<Item>Apple_Wine</Item>
+	</Diet>
+	
+	<Diet>
+		<ID>Herbivore</ID>
+		<Name>Herbivore</Name>
+		<Item>Apple</Item>
+		<Item>Apple_Juice</Item>
+		<Item>Apple_Wine</Item>
+	</Diet>
+	
+	<Diet>
+		<ID>Carnivore</ID>
+		<Name>Carnivore</Name>
+		<Item>Meat</Item>
+		<Item>Apple_Juice</Item>
+		<Item>Apple_Wine</Item>
+	</Diet>
+</Diets>

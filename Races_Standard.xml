@@ -1,0 +1,45 @@
+<Races>
+	<Race>
+		<ID>Human</ID>
+		<Name>Human</Name>
+		<Needs>
+			<Need>Hunger</Need>
+			<Need>Thirst</Need>
+			<Need>Energy</Need>
+		</Needs>
+		<Diet>Omnivore</Diet>
+	</Race>
+	
+	<Race>
+		<ID>Dwarf</ID>
+		<Name>Dwarf</Name>
+		<Needs>
+			<Need>Hunger</Need>
+			<Need>Alcohol</Need>
+			<Need>Energy</Need>
+		</Needs>
+		<Diet>Omnivore</Diet>
+	</Race>
+	
+	<Race>
+		<ID>Elf</ID>
+		<Name>Elf</Name>
+		<Needs>
+			<Need>Hunger</Need>
+			<Need>Thirst</Need>
+			<Need>Energy</Need>
+		</Needs>
+		<Diet>Herbivore</Diet>
+	</Race>
+	
+	<Race>
+		<ID>Orc</ID>
+		<Name>Orc</Name>
+		<Needs>
+			<Need>Hunger</Need>
+			<Need>Thirst</Need>
+			<Need>Energy</Need>
+		</Needs>
+		<Diet>Carnivore</Diet>
+	</Race>
+</Races>

@@ -1,0 +1,41 @@
+<Items>
+	<Item>
+		<ID>Apple</ID>
+		<Name>Apple</Name>
+		<Can_Stack>True</Can_Stack>
+		<Modifier>
+			<Stat>hunger</Stat>
+			<Number>4</Number>
+		</Modifier>
+	</Item>
+	
+	<Item>
+		<ID>Apple_Juice</ID>
+		<Name>Apple Juice</Name>
+		<Can_Stack>True</Can_Stack>
+		<Modifier>
+			<Stat>thirst</Stat>
+			<Number>4</Number>
+		</Modifier>
+	</Item>
+	
+	<Item>
+		<ID>Apple_Wine</ID>
+		<Name>Apple Wine</Name>
+		<Can_Stack>True</Can_Stack>
+		<Modifier>
+			<Stat>alcohol</Stat>
+			<Number>4</Number>
+		</Modifier>
+	</Item>
+	
+	<Item>
+		<ID>Meat</ID>
+		<Name>Meat</Name>
+		<Can_Stack>True</Can_Stack>
+		<Modifier>
+			<Stat>hunger</Stat>
+			<Number>4</Number>
+		</Modifier>
+	</Item>
+</Items>

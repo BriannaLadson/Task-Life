@@ -1,0 +1,33 @@
+<Needs>
+	<Need>
+		<ID>Hunger</ID>
+		<Name>Hunger</Name>
+		<Attribute>hunger</Attribute>
+		<Color>#FFE135</Color>
+		<Death_Type>Starvation</Death_Type>
+	</Need>
+	
+	<Need>
+		<ID>Thirst</ID>
+		<Name>Thirst</Name>
+		<Attribute>thirst</Attribute>
+		<Color>#7CB9E8</Color>
+		<Death_Type>Dehydration</Death_Type>
+	</Need>
+	
+	<Need>
+		<ID>Alcohol</ID>
+		<Name>Alcohol</Name>
+		<Attribute>alcohol</Attribute>
+		<Color>#FAD6A5</Color>
+		<Death_Type>Dehydration</Death_Type>
+	</Need>
+	
+	<Need>
+		<ID>Energy</ID>
+		<Name>Energy</Name>
+		<Attribute>energy</Attribute>
+		<Color>#3D9140</Color>
+		<Death_Type>Sleep Deprivation</Death_Type>
+	</Need>
+</Needs>

@@ -1,0 +1,36 @@
+<Actions>
+	<Action>
+		<ID>Forage</ID>
+		<Name>Forage</Name>
+		<Action_Points>1</Action_Points>
+		<Description>Forage for some food!</Description>
+		<Stat>Foraging</Stat>
+		<Success_Reward>
+			<ID>Edible_Item</ID>
+		</Success_Reward>
+	</Action>
+	
+	<Action>
+		<ID>Eat</ID>
+		<Name>Eat</Name>
+		<Action_Points>1</Action_Points>
+		<Description>Stave off dehydration and starvation by eating some food!</Description>
+		<Stat>Eating</Stat>
+		<Success_Reward>
+			<ID>Consume_Item</ID>
+		</Success_Reward>
+	</Action>
+	
+	<Action>
+		<ID>Sleep</ID>
+		<Name>Sleep</Name>
+		<Action_Points>1</Action_Points>
+		<Description>Stave off sleep deprivation by sleeping!</Description>
+		<Stat>Sleeping</Stat>
+		<Success_Reward>
+			<ID>Mod_Need</ID>
+			<Parameter1>Energy</Parameter1>
+			<Parameter2>4</Parameter2>
+		</Success_Reward>
+	</Action>
+</Actions>

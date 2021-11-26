@@ -1,0 +1,25 @@
+<Stats>
+	<Stat>
+		<ID>Foraging</ID>
+		<Name>Foraging</Name>
+		<Attribute>foraging</Attribute>
+	</Stat>
+	
+	<Stat>
+		<ID>Eating</ID>
+		<Name>Eating</Name>
+		<Attribute>eating</Attribute>
+	</Stat>
+	
+	<Stat>
+		<ID>Sleeping</ID>
+		<Name>Sleeping</Name>
+		<Attribute>sleeping</Attribute>
+	</Stat>
+	
+	<Stat>
+		<ID>Mining</ID>
+		<Name>Mining</Name>
+		<Attribute>mining</Attribute>
+	</Stat>
+</Stats>
